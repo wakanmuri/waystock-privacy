@@ -1,3 +1,3 @@
 # WayStock プライバシーポリシー
 
-準備中です。
+公開ページ： https://wakanmuri.github.io/waystock-privacy/
